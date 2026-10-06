@@ -15,20 +15,20 @@ Phần 1 - Kiến trúc mô hình
 
 ---------------------------------------------------------------------------
 
-Nhu cầu người dùng (hành khách, tài xế, quy định thuế)
-        ↓
-PO thu thập, sắp xếp → Product Backlog
-        ↓
-Sprint Planning → Sprint Goal + Sprint Backlog
-        ↓
-Sprint: Developers làm, Daily Scrum kiểm tra mỗi ngày
-        ↓
-Increment đạt Definition of Done
-        ↓
-Sprint Review → khách hàng/stakeholder phản hồi
-        ↓                          ↓
-Phản hồi vào Product Backlog    Retrospective → cải tiến cách làm
-        ↓                          ↓
+Nhu cầu người dùng (hành khách, tài xế, quy định thuế) <br>
+        ↓<br>
+PO thu thập, sắp xếp → Product Backlog<br>
+        ↓<br>
+Sprint Planning → Sprint Goal + Sprint Backlog<br>
+        ↓<br>
+Sprint: Developers làm, Daily Scrum kiểm tra mỗi ngày<br>
+        ↓<br>
+Increment đạt Definition of Done<br>
+        ↓<br>
+Sprint Review → khách hàng/stakeholder phản hồi<br>
+        ↓<br>                          ↓
+Phản hồi vào Product Backlog    Retrospective → cải tiến cách làm<br>
+        ↓<br>                          ↓
         Sprint Planning kế tiếp (vòng mới)
 ---------------------------------------------------------------------------
 
